@@ -3,3 +3,5 @@ this is the first file
 updated for online transfer
 
 for smartgit
+
+for pull from git in smartgit
